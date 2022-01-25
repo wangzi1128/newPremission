@@ -345,6 +345,4 @@ public class AndPermission {
         return new ContextSource(context);
     }
 
-    private AndPermission() {
-    }
 }
